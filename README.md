@@ -179,7 +179,7 @@ history repeating itself.
 At this place I want to link to some sources with playlists, so you can
 download and try them to import.
 
-- [examples](https://github.com/thingsiplay/retroarch-import-playlist/examples/playlists)
+- [examples](examples/playlists)
 - [lakka-playlists by balb](https://github.com/balb/lakka-playlists/tree/main/playlists)
   or [download a ZIP with all playlists](https://github.com/balb/lakka-playlists/raw/main/playlists.zip)
 
