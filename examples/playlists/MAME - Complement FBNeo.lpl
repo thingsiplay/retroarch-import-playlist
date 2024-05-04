@@ -1,0 +1,284 @@
+{
+  "version": "1.5",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "thumbnail_match_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "/home/tuncay/Emulation/Roms/mame/apb.zip",
+      "label": "APB - All Points Bulletin (rev 7)",
+      "core_path": "/home/tuncay/.config/retroarch/cores/mame_libretro.so",
+      "core_name": "Arcade (MAME)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/home/tuncay/Emulation/Roms/mame/astrass.zip",
+      "label": "Astra SuperStars (J 980514 V1.002)",
+      "core_path": "/home/tuncay/.config/retroarch/cores/mame_libretro.so",
+      "core_name": "Arcade (MAME)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/home/tuncay/Emulation/Roms/mame/astrob.zip",
+      "label": "Astro Blaster (version 3)",
+      "core_path": "/home/tuncay/.config/retroarch/cores/mame_libretro.so",
+      "core_name": "Arcade (MAME)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/home/tuncay/Emulation/Roms/mame/bosco.zip",
+      "label": "Bosconian - Star Destroyer (new version)",
+      "core_path": "/home/tuncay/.config/retroarch/cores/mame_libretro.so",
+      "core_name": "Arcade (MAME)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/home/tuncay/Emulation/Roms/mame/brutforc.zip",
+      "label": "Brute Force",
+      "core_path": "/home/tuncay/.config/retroarch/cores/mame_libretro.so",
+      "core_name": "Arcade (MAME)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/home/tuncay/Emulation/Roms/mame/buggyboy.zip",
+      "label": "Buggy Boy/Speed Buggy (cockpit, rev. D)",
+      "core_path": "/home/tuncay/.config/retroarch/cores/mame_libretro.so",
+      "core_name": "Arcade (MAME)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/home/tuncay/Emulation/Roms/mame/cotton2.zip",
+      "label": "Cotton 2 (JUET 970902 V1.000)",
+      "core_path": "/home/tuncay/.config/retroarch/cores/mame_libretro.so",
+      "core_name": "Arcade (MAME)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/home/tuncay/Emulation/Roms/mame/dokidoki.zip",
+      "label": "Doki Doki Penguin Land",
+      "core_path": "/home/tuncay/.config/retroarch/cores/mame_libretro.so",
+      "core_name": "Arcade (MAME)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/home/tuncay/Emulation/Roms/mame/gokuparo.zip",
+      "label": "Gokujyou Parodius (ver JAD)",
+      "core_path": "/home/tuncay/.config/retroarch/cores/mame_libretro.so",
+      "core_name": "Arcade (MAME)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/home/tuncay/Emulation/Roms/mame/gaxeduel.zip",
+      "label": "Golden Axe - The Duel (JUETL 950117 V1.000)",
+      "core_path": "/home/tuncay/.config/retroarch/cores/mame_libretro.so",
+      "core_name": "Arcade (MAME)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/home/tuncay/Emulation/Roms/mame/gorf.zip",
+      "label": "Gorf",
+      "core_path": "/home/tuncay/.config/retroarch/cores/mame_libretro.so",
+      "core_name": "Arcade (MAME)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/home/tuncay/Emulation/Roms/mame/groovef.zip",
+      "label": "Groove on Fight - Gouketsuji Ichizoku 3 (J 970416 V1.001)",
+      "core_path": "/home/tuncay/.config/retroarch/cores/mame_libretro.so",
+      "core_name": "Arcade (MAME)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/home/tuncay/Emulation/Roms/mame/irobot.zip",
+      "label": "I, Robot",
+      "core_path": "/home/tuncay/.config/retroarch/cores/mame_libretro.so",
+      "core_name": "Arcade (MAME)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/home/tuncay/Emulation/Roms/mame/indytemp.zip",
+      "label": "Indiana Jones and the Temple of Doom (set 1)",
+      "core_path": "/home/tuncay/.config/retroarch/cores/mame_libretro.so",
+      "core_name": "Arcade (MAME)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/home/tuncay/Emulation/Roms/mame/offroad.zip",
+      "label": "Ironman Ivan Stewart's Super Off-Road (rev 4)",
+      "core_path": "/home/tuncay/.config/retroarch/cores/mame_libretro.so",
+      "core_name": "Arcade (MAME)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/home/tuncay/Emulation/Roms/mame/kinst/kinst.chd",
+      "label": "Killer Instinct",
+      "core_path": "/home/tuncay/.config/retroarch/cores/mame_libretro.so",
+      "core_name": "Arcade (MAME)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/home/tuncay/Emulation/Roms/mame/kov3.zip",
+      "label": "Knights of Valour 3 / Sanguo Zhan Ji 3 (V104, China, Hong Kong, Taiwan)",
+      "core_path": "/home/tuncay/.config/retroarch/cores/mame_libretro.so",
+      "core_name": "Arcade (MAME)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/home/tuncay/Emulation/Roms/mame/lrescue.zip",
+      "label": "Lunar Rescue",
+      "core_path": "/home/tuncay/.config/retroarch/cores/mame_libretro.so",
+      "core_name": "Arcade (MAME)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/home/tuncay/Emulation/Roms/mame/marble.zip",
+      "label": "Marble Madness (set 1)",
+      "core_path": "/home/tuncay/.config/retroarch/cores/mame_libretro.so",
+      "core_name": "Arcade (MAME)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/home/tuncay/Emulation/Roms/mame/mrdrillr.zip",
+      "label": "Mr. Driller (US, DRI3/VER.A2)",
+      "core_path": "/home/tuncay/.config/retroarch/cores/mame_libretro.so",
+      "core_name": "Arcade (MAME)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/home/tuncay/Emulation/Roms/mame/paperboy.zip",
+      "label": "Paperboy (rev 3)",
+      "core_path": "/home/tuncay/.config/retroarch/cores/mame_libretro.so",
+      "core_name": "Arcade (MAME)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/home/tuncay/Emulation/Roms/mame/polepos.zip",
+      "label": "Pole Position (World)",
+      "core_path": "/home/tuncay/.config/retroarch/cores/mame_libretro.so",
+      "core_name": "Arcade (MAME)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/home/tuncay/Emulation/Roms/mame/puyosun.zip",
+      "label": "Puyo Puyo Sun (J 961115 V0.001)",
+      "core_path": "/home/tuncay/.config/retroarch/cores/mame_libretro.so",
+      "core_name": "Arcade (MAME)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/home/tuncay/Emulation/Roms/mame/salmndr2.zip",
+      "label": "Salamander 2 (ver JAA)",
+      "core_path": "/home/tuncay/.config/retroarch/cores/mame_libretro.so",
+      "core_name": "Arcade (MAME)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/home/tuncay/Emulation/Roms/mame/sexyparo.zip",
+      "label": "Sexy Parodius (ver JAA)",
+      "core_path": "/home/tuncay/.config/retroarch/cores/mame_libretro.so",
+      "core_name": "Arcade (MAME)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/home/tuncay/Emulation/Roms/mame/shienryu.zip",
+      "label": "Shienryu (JUET 961226 V1.000)",
+      "core_path": "/home/tuncay/.config/retroarch/cores/mame_libretro.so",
+      "core_name": "Arcade (MAME)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/home/tuncay/Emulation/Roms/mame/sokyugrt.zip",
+      "label": "Soukyugurentai / Terra Diver (JUET 960821 V1.000)",
+      "core_path": "/home/tuncay/.config/retroarch/cores/mame_libretro.so",
+      "core_name": "Arcade (MAME)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/home/tuncay/Emulation/Roms/mame/starcas.zip",
+      "label": "Star Castle (version 3)",
+      "core_path": "/home/tuncay/.config/retroarch/cores/mame_libretro.so",
+      "core_name": "Arcade (MAME)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/home/tuncay/Emulation/Roms/mame/ssprint.zip",
+      "label": "Super Sprint (rev 4)",
+      "core_path": "/home/tuncay/.config/retroarch/cores/mame_libretro.so",
+      "core_name": "Arcade (MAME)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/home/tuncay/Emulation/Roms/mame/crysking.zip",
+      "label": "The Crystal of Kings",
+      "core_path": "/home/tuncay/.config/retroarch/cores/mame_libretro.so",
+      "core_name": "Arcade (MAME)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/home/tuncay/Emulation/Roms/mame/tbyahhoo.zip",
+      "label": "Twin Bee Yahhoo! (ver JAA)",
+      "core_path": "/home/tuncay/.config/retroarch/cores/mame_libretro.so",
+      "core_name": "Arcade (MAME)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/home/tuncay/Emulation/Roms/mame/tx1.zip",
+      "label": "TX-1 (World)",
+      "core_path": "/home/tuncay/.config/retroarch/cores/mame_libretro.so",
+      "core_name": "Arcade (MAME)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/home/tuncay/Emulation/Roms/mame/warlords.zip",
+      "label": "Warlords",
+      "core_path": "/home/tuncay/.config/retroarch/cores/mame_libretro.so",
+      "core_name": "Arcade (MAME)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/home/tuncay/Emulation/Roms/mame/wow.zip",
+      "label": "Wizard of Wor",
+      "core_path": "/home/tuncay/.config/retroarch/cores/mame_libretro.so",
+      "core_name": "Arcade (MAME)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME.lpl"
+    }
+  ]
+}

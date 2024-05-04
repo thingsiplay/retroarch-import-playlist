@@ -1,0 +1,197 @@
+{
+  "version": "1.5",
+  "default_core_path": "",
+  "default_core_name": "",
+  "base_content_directory": "/home/tuncay/Emulation/Roms",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "thumbnail_match_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "/home/tuncay/Emulation/Roms/fbneo/flagrall.zip",
+      "label": "'96 Flag Rally",
+      "core_path": "/home/tuncay/.config/retroarch/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "69F5767F|crc",
+      "db_name": "FBNeo - Arcade Games.lpl"
+    },
+    {
+      "path": "/home/tuncay/Emulation/Roms/psx/Castlevania - Symphony of the Night (USA).chd",
+      "label": "Castlevania - Symphony of the Night (USA)",
+      "core_path": "/home/tuncay/.config/retroarch/cores/mednafen_psx_hw_libretro.so",
+      "core_name": "Sony - PlayStation (Beetle PSX HW)",
+      "crc32": "05BE47B2|crc",
+      "db_name": "Sony - PlayStation.lpl"
+    },
+    {
+      "path": "/home/tuncay/Emulation/Roms/n64/Conker's Bad Fur Day (U) [!].z64",
+      "label": "Conker's Bad Fur Day (USA)",
+      "core_path": "/home/tuncay/.config/retroarch/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "CE8CC172|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/tuncay/Emulation/Roms/mame2003plus/ddonpach.zip",
+      "label": "DoDonPachi (International)",
+      "core_path": "/home/tuncay/.config/retroarch/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "00000000|crc",
+      "db_name": "MAME 2003-Plus.lpl"
+    },
+    {
+      "path": "/home/tuncay/Emulation/Roms/pcdos/DOOM (1993).dosz",
+      "label": "DOOM (1993)",
+      "core_path": "/home/tuncay/.config/retroarch/cores/dosbox_pure_libretro.so",
+      "core_name": "DOS (DOSBox-Pure)",
+      "crc32": "00000000|crc",
+      "db_name": "DOS.lpl"
+    },
+    {
+      "path": "/home/tuncay/Emulation/Roms/doom/SIGIL (v1.21)/doom.wad",
+      "label": "Doom (v1.9)",
+      "core_path": "/home/tuncay/.config/retroarch/cores/prboom_libretro.so",
+      "core_name": "Doom (PrBoom)",
+      "crc32": "723E60F9|crc",
+      "db_name": "DOOM.lpl"
+    },
+    {
+      "path": "/home/tuncay/Emulation/Roms/doom/Doom (v1.9)/DOOM.WAD",
+      "label": "Doom (v1.9)",
+      "core_path": "/home/tuncay/.config/retroarch/cores/prboom_libretro.so",
+      "core_name": "Doom (PrBoom)",
+      "crc32": "723E60F9|crc",
+      "db_name": "DOOM.lpl"
+    },
+    {
+      "path": "/home/tuncay/Emulation/Roms/megadrive/Earthworm Jim (USA).md",
+      "label": "Earthworm Jim (USA)",
+      "core_path": "/home/tuncay/.config/retroarch/cores/genesis_plus_gx_libretro.so",
+      "core_name": "Sega - MS/GG/MD/CD (Genesis Plus GX)",
+      "crc32": "DF3ACF59|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/home/tuncay/Emulation/Roms/psx/Final Fantasy VII (USA) (Disc 1).chd",
+      "label": "Final Fantasy VII (USA) (Disc 3)",
+      "core_path": "/home/tuncay/.config/retroarch/cores/mednafen_psx_hw_libretro.so",
+      "core_name": "Sony - PlayStation (Beetle PSX HW)",
+      "crc32": "1C27B277|crc",
+      "db_name": "Sony - PlayStation.lpl"
+    },
+    {
+      "path": "/home/tuncay/Emulation/Roms/ps2/Gradius V (USA).chd",
+      "label": "Gradius V (USA)",
+      "core_path": "/home/tuncay/.config/retroarch/cores/pcsx2_libretro.so",
+      "core_name": "Sony - PlayStation 2 (LRPS2)",
+      "crc32": "00000000|crc",
+      "db_name": "Sony - PlayStation 2.lpl"
+    },
+    {
+      "path": "/home/tuncay/Emulation/Roms/psx/Gran Turismo 2 (USA) (Arcade Mode) (v1.1).chd",
+      "label": "Gran Turismo 2 (USA) (Arcade Mode) (Rev 1)",
+      "core_path": "/home/tuncay/.config/retroarch/cores/duckstation_libretro.so",
+      "core_name": "Sony - PlayStation (DuckStation)",
+      "crc32": "B444F497|crc",
+      "db_name": "Sony - PlayStation.lpl"
+    },
+    {
+      "path": "/home/tuncay/Emulation/Roms/psx/Metal Gear Solid (USA) (Disc 1) (v1.1).chd",
+      "label": "Metal Gear Solid (USA) (Disc 1) (Rev 1)",
+      "core_path": "/home/tuncay/.config/retroarch/cores/mednafen_psx_hw_libretro.so",
+      "core_name": "Sony - PlayStation (Beetle PSX HW)",
+      "crc32": "21B5D15D|crc",
+      "db_name": "Sony - PlayStation.lpl"
+    },
+    {
+      "path": "/home/tuncay/Emulation/Roms/gamecube/Metroid Prime (USA) (Rev 2).rvz",
+      "label": "Metroid Prime (USA) (Rev 2)",
+      "core_path": "/home/tuncay/.config/retroarch/cores/dolphin_libretro.so",
+      "core_name": "Nintendo - GameCube / Wii (Dolphin)",
+      "crc32": "00000000|crc",
+      "db_name": "Nintendo - GameCube.lpl"
+    },
+    {
+      "path": "/home/tuncay/Emulation/Roms/nds/Metroid Prime Pinball.nds",
+      "label": "Metroid Prime Pinball (USA)",
+      "core_path": "/home/tuncay/.config/retroarch/cores/melonds_libretro.so",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "AE000914|crc",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "/home/tuncay/Emulation/Roms/n64/Perfect Dark (U) (V1.0) [!].z64",
+      "label": "Perfect Dark (USA)",
+      "core_path": "/home/tuncay/.config/retroarch/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "68446AD4|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/tuncay/Emulation/Roms/saturn/Sega Rally Championship (USA).chd",
+      "label": "Sega Rally Championship (USA)",
+      "core_path": "/home/tuncay/.config/retroarch/cores/mednafen_saturn_libretro.so",
+      "core_name": "Sega - Saturn (Beetle Saturn)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/tuncay/Emulation/Roms/segacd/Shadowrun (Japan).chd",
+      "label": "Shadowrun (Japan)",
+      "core_path": "/home/tuncay/.config/retroarch/cores/genesis_plus_gx_libretro.so",
+      "core_name": "Sega - MS/GG/MD/CD (Genesis Plus GX)",
+      "crc32": "00000000|crc",
+      "db_name": "Sega - Mega-CD - Sega CD.lpl"
+    },
+    {
+      "path": "/home/tuncay/Emulation/Roms/megadrive/Sonic The Hedgehog (USA, Europe).md",
+      "label": "Sonic The Hedgehog (USA, Europe)",
+      "core_path": "/usr/lib/libretro/genesis_plus_gx_libretro.so",
+      "core_name": "Sega - MS/GG/MD/CD (Genesis Plus GX)",
+      "crc32": "F9394E97|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/home/tuncay/Emulation/Roms/megadrive/Streets of Rage 2 (USA).md",
+      "label": "Streets of Rage 2 (USA)",
+      "core_path": "/home/tuncay/.config/retroarch/cores/genesis_plus_gx_libretro.so",
+      "core_name": "Sega - MS/GG/MD/CD (Genesis Plus GX)",
+      "crc32": "E01FA526|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/home/tuncay/Emulation/Roms/snes/Super Mario World (U) [!].smc",
+      "label": "Super Mario World (USA)",
+      "core_path": "/home/tuncay/.config/retroarch/cores/bsnes_libretro.so",
+      "core_name": "Nintendo - SNES / SFC (bsnes)",
+      "crc32": "B19ED489|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/home/tuncay/Emulation/Roms/snes/Super Street Fighter II (USA) (Rev 1).sfc",
+      "label": "Super Street Fighter II (USA) (Rev 1)",
+      "core_path": "/home/tuncay/.config/retroarch/cores/bsnes_libretro.so",
+      "core_name": "Nintendo - SNES / SFC (bsnes)",
+      "crc32": "3D4BC494|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/home/tuncay/Emulation/Roms/doom/Ultimate Doom, The (BFG Edition)/DOOM.WAD",
+      "label": "Ultimate Doom, The (BFG Edition)",
+      "core_path": "/home/tuncay/.config/retroarch/cores/prboom_libretro.so",
+      "core_name": "Doom (PrBoom)",
+      "crc32": "5EFA677E|crc",
+      "db_name": "DOOM.lpl"
+    },
+    {
+      "path": "/home/tuncay/Emulation/Roms/n64/Wave Race 64 (U) (V1.1) [!].z64",
+      "label": "Wave Race 64 - Kawasaki Jet Ski (USA) (Rev 1)",
+      "core_path": "/home/tuncay/.config/retroarch/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "394948C4|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    }
+  ]
+}
