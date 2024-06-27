@@ -150,8 +150,26 @@ file.
 
 ## Create your own playlist for sharing
 
-Here is a little step by step instructions to quickly create custom playlists.
-It's basically just copying the Favorites file to your playlist folder.
+### RetroArch v1.19+
+
+Since [RetroArch update version
+1.19](https://www.libretro.com/index.php/retroarch-1-19-0-release/), the option
+to create custom playlists was added. It might be disabled, so check and enable
+at:
+
+"Settings" > "User Interface" > "Menu Item Visibility" > "Quick Menu" > "Show
+‘Add to Playlist’" and set it to `ON` .
+
+Now in any playlist or in the Quick Menu while playing a game, the new option
+"Add to Playlist" is available. Use it to your advantage.
+
+### RetroArch v1.18 and earlier
+
+In older versions of RetroArch, the "Add to Playlist" functionality is not
+available. Therefore we have to be creative to create new playlists in a simple
+manner. Here is a little step by step instructions to quickly create custom
+playlists. It's basically just copying the Favorites file to your playlist
+folder.
 
 1. First go to your configuration directory of RetroArch, where all settings
    are stored. Remember this directory, it will be important later.
