@@ -9,7 +9,17 @@ import argparse
 
 
 def fullpath(path):
-    return pathlib.Path(path).expanduser().resolve()
+    if isinstance(path, pathlib.WindowsPath) or isinstance(
+        path, pathlib.PureWindowsPath
+    ):
+        return pathlib.Path(path.as_posix())
+    elif isinstance(path, str):
+        if "\\" in path:
+            return pathlib.Path(pathlib.PureWindowsPath(path).as_posix())
+        else:
+            return pathlib.Path(path).expanduser()
+    else:
+        return pathlib.Path(path).expanduser()
 
 
 def parse_arguments():
@@ -126,7 +136,9 @@ def main():
                 default_core_path = None
 
             if "base_content_directory" in content:
-                content["base_content_directory"] = base_content_directory.as_posix()
+                content["base_content_directory"] = fullpath(
+                    base_content_directory
+                ).as_posix()
 
             if "scan_content_dir" in content:
                 del content["scan_content_dir"]
@@ -135,9 +147,7 @@ def main():
                 db_name = item["db_name"].removesuffix(".lpl")
 
                 if db_name in config.sections():
-                    content_directory = pathlib.Path(
-                        config[db_name]["content_directory"]
-                    )
+                    content_directory = fullpath(config[db_name]["content_directory"])
                     content_directory = base_content_directory / content_directory
                     if "path" in item:
                         path = fullpath(item["path"]).name
@@ -156,13 +166,13 @@ def main():
 
                     if core_path:
                         core_path = (
-                            pathlib.Path(item["core_path"])
-                            .with_suffix(core_extension)
-                            .name
+                            fullpath(item["core_path"]).with_suffix(core_extension).name
                         )
                         core_path = core_directory / core_path
                         content["items"][index]["core_path"] = core_path.as_posix()
 
+            pathlib.Path(output_directory).mkdir(parents=True, exist_ok=True)
+            output_path.touch(exist_ok=True)
             with open(output_path, "w") as output_file:
                 json.dump(content, output_file, indent=2)
             if output_path.exists():
